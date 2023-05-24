@@ -1,0 +1,4 @@
+C:\Users\Hanna\source\repos\areaCircle\areaCircle\x64\Debug\areaCircle.vcxproj.AssemblyReference.cache
+C:\Users\Hanna\source\repos\areaCircle\areaCircle\x64\Debug\areaCircle.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Hanna\source\repos\areaCircle\areaCircle\x64\Debug\areaCircle.MainForm.resources
+C:\Users\Hanna\source\repos\areaCircle\areaCircle\x64\Debug\areaCircle.vcxproj.GenerateResource.cache
